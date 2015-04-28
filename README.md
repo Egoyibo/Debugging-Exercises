@@ -1,9 +1,8 @@
 # Debugging-Exercises
-Exercises for Debugging Talk at Hackbright
+## Exercises for Debugging Talk at Hackbright
 
-To get started
-______________
+### To get started:
 
 * Clone this repo
 * create a virtual environment
-* pip install -r requirements.txt
+* <code>pip install -r requirements.txt</code>
