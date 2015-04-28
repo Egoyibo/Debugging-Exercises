@@ -1,5 +1,4 @@
 def DebuggingExercise1():
-    pu.db
     list_of_int = []
     for i in range(1, 5):
         print("About to try to insert %d into the array at position %d") %(i, i)
