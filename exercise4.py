@@ -13,3 +13,8 @@ def remove_html_markup(s):
         elif not tag:
             output = output + char
     return output
+
+remove_html_markup('<hello>hello</hello>')
+
+
+#Reference Debugging Software by Adreas Zeller & Gundega Dekena

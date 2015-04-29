@@ -19,3 +19,5 @@ if __name__ == "__main__":
     a2.deposit(20)
 
     transfer_money(a1, a2)
+
+# Reference: http://sydney.edu.au/engineering/it/~jchan3/soft1001/jme/debugging/DebuggingExercise2.java

@@ -9,12 +9,15 @@ def print_me(str):
 def kill_time():
     long_string = ""
     for i in range(1, 20):
-        long_string = long_string + "a"*i + " " 
+        long_string = long_string + "a"*i + " "
+
+    a = 'a'
+    b = 'b'
 
     return long_string
 
 
-import ipdb; ipdb.set_trace();
+import pdb; pdb.set_trace();
 
 # n | c | b | b x | b x, condition
 ######################################

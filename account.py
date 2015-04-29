@@ -36,5 +36,7 @@ class Account(object):
         if (self.balance < amount):
             return False #not enough money
         self.withdraw(amount)
-        self.deposit(amount)
+        receiving_account.deposit(amount)
         return True
+
+# Reference: http://sydney.edu.au/engineering/it/~jchan3/soft1001/Account.java
